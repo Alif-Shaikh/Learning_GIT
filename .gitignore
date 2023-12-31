@@ -1,1 +1,4 @@
-mylogs.log
+# mylogs.log    ignores from anywhere
+
+/mylogs.log 
+#ignores from root only
